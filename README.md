@@ -2,9 +2,7 @@
 
 A simple and interactive web-based calculator built using HTML, CSS, and JavaScript. This project replicates the basic functionality of a physical calculator, allowing users to perform arithmetic operations like addition, subtraction, multiplication, and division with a clean and responsive UI.
 
-🌐 Live Demo: Calculator on Netlify
-
-📂 Source Code: GitHub Repository
+🌐 Live Demo: https://inquisitive-twilight-e48ce8.netlify.app/
 
 # 🚀 Features
 
