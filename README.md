@@ -6,7 +6,7 @@ A simple and interactive web-based calculator built using HTML, CSS, and JavaScr
 
 📂 Source Code: GitHub Repository
 
-#🚀 Features
+# 🚀 Features
 
 Basic Arithmetic Operations – Addition, subtraction, multiplication, and division.
 
@@ -18,7 +18,7 @@ User-friendly Interface – Simple and minimal layout for easy interaction.
 
 Keyboard Independent – Fully clickable buttons, no need to rely on keyboard input.
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 HTML5 – Structure of the calculator.
 
@@ -26,7 +26,7 @@ CSS3 – Styling and responsive design.
 
 JavaScript (ES6) – Logic for calculations and button functionality.
 
-#⚙️ How It Works
+# ⚙️ How It Works
 
 Each button click updates an internal string (str) storing the current expression.
 
@@ -38,7 +38,7 @@ DEL – Removes the last entered character.
 
 Regular number/operator buttons append to the input field.
 
-#📦 Installation & Usage
+# 📦 Installation & Usage
 
 Clone the repository:
 
@@ -50,7 +50,7 @@ Open index.html in your browser.
 
 No extra setup required.
 
-#🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 Add support for decimal calculations.
 
@@ -62,6 +62,6 @@ Add advanced functions (square root, power, percentage, etc.).
 
 Dark/Light mode toggle for better UI customization.
 
-#🙌 Acknowledgements
+# 🙌 Acknowledgements
 
 This project was created as a learning exercise to strengthen JavaScript DOM manipulation and event handling skills while practicing frontend development.
